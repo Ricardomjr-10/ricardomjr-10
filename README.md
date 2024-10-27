@@ -1,11 +1,5 @@
 ## Olá, eu sou Ricardo Rocha 👋
 
-Faça uma breve apresentação sobre você e a sua stack.
-
-🔭 Escreva algum projeto que você desenvolveu ou que atualmente esteja trabalhando nele.
-
-💬 Escreva uma mensagem para que as pessoas entrem em contato com você, ou te faça perguntas.
-
 ---
 
 ## 🚀 Minhas Skills
